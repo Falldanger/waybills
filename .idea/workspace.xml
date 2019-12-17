@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e4cf0c4-125b-43df-8637-6df15c36beb9" name="Default Changelist" comment="Routing api.php file added. Ajax technology was implemented to adding rows to table. indexController functions reworked." />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U1ODaNbNhVDOLE7PC0ePsZs1AY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../last-task" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\Waybills" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\Waybills\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e4cf0c4-125b-43df-8637-6df15c36beb9" name="Default Changelist" comment="" />
+      <created>1574520515311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574520515311</updated>
+      <workItem from="1574520516780" duration="1561000" />
+      <workItem from="1574522250742" duration="34539000" />
+      <workItem from="1574591222992" duration="18077000" />
+      <workItem from="1574613662314" duration="14002000" />
+      <workItem from="1574628222412" duration="1593000" />
+      <workItem from="1574632287736" duration="43000" />
+      <workItem from="1574707221298" duration="3808000" />
+      <workItem from="1574719575386" duration="1183000" />
+      <workItem from="1575054924154" duration="45000" />
+      <workItem from="1575208017031" duration="9000" />
+      <workItem from="1575304429082" duration="13742000" />
+      <workItem from="1575381621563" duration="15286000" />
+      <workItem from="1575407843579" duration="8793000" />
+      <workItem from="1575458658423" duration="18572000" />
+      <workItem from="1575563918234" duration="4048000" />
+      <workItem from="1575817943359" duration="24797000" />
+      <workItem from="1575918047510" duration="1203000" />
+      <workItem from="1575924480637" duration="856000" />
+      <workItem from="1575980295407" duration="18783000" />
+      <workItem from="1576003830203" duration="4503000" />
+      <workItem from="1576009996781" duration="296000" />
+      <workItem from="1576166760333" duration="1207000" />
+      <workItem from="1576170698496" duration="802000" />
+      <workItem from="1576351522160" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Routing api.php file added. Ajax technology was implemented to adding rows to table. indexController functions reworked." />
+    <option name="LAST_COMMIT_MESSAGE" value="Routing api.php file added. Ajax technology was implemented to adding rows to table. indexController functions reworked." />
+  </component>
+</project>
